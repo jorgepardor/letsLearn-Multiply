@@ -11,6 +11,7 @@
 		9B1CDF4A2ADBD9DA00D5882B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1CDF492ADBD9DA00D5882B /* ContentView.swift */; };
 		9B1CDF4C2ADBD9DB00D5882B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B1CDF4B2ADBD9DB00D5882B /* Assets.xcassets */; };
 		9B1CDF4F2ADBD9DB00D5882B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B1CDF4E2ADBD9DB00D5882B /* Preview Assets.xcassets */; };
+		9BD1475A2ADC31DB00A2A8BA /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD147592ADC31DB00A2A8BA /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9B1CDF492ADBD9DA00D5882B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9B1CDF4B2ADBD9DB00D5882B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B1CDF4E2ADBD9DB00D5882B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9BD147592ADC31DB00A2A8BA /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9B1CDF472ADBD9DA00D5882B /* letsLearn_MultiplyApp.swift */,
 				9B1CDF492ADBD9DA00D5882B /* ContentView.swift */,
+				9BD147592ADC31DB00A2A8BA /* Question.swift */,
 				9B1CDF4B2ADBD9DB00D5882B /* Assets.xcassets */,
 				9B1CDF4D2ADBD9DB00D5882B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BD1475A2ADC31DB00A2A8BA /* Question.swift in Sources */,
 				9B1CDF4A2ADBD9DA00D5882B /* ContentView.swift in Sources */,
 				9B1CDF482ADBD9DA00D5882B /* letsLearn_MultiplyApp.swift in Sources */,
 			);
